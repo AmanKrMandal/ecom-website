@@ -1,0 +1,35 @@
+.login {
+  box-shadow: 10px 0 5px -2px #76a7b92c;
+  height: 100vh;
+}
+.loginInput {
+  outline: none;
+  background-color: #f1f3f6;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  width: 370px;
+  margin-left: 30px;
+}
+
+
+.login1 {
+    padding: 13px 160px;
+    border-radius: 8px;
+    color: #ffffff;
+    border: 1px solid #024e82;
+    background-color: #024e82;
+  }
+  
+  
+  .signup1 {
+    padding: 13px 155px;
+    border-radius: 8px;
+    color: #024e82;
+    border: 1px solid #024e82;
+    background-color: transparent;
+  }
+
+  .btnmargin{
+    margin-left: 35px;
+  }

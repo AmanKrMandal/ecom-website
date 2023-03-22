@@ -1,0 +1,28 @@
+.table {
+  border-bottom: 1px solid #ebebeb;
+}
+
+table tr td:nth-child(n) {
+  border-top: 1px solid #ebebeb;
+  /* border-bottom: 1px solid #ebebeb; */
+  width: 500px;
+}
+
+table tr th:nth-child(n) {
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.totals {
+  font-weight: 700;
+  font-size: 36px;
+  margin-bottom: 34px;
+}
+
+.check {
+  background: #fd7401;
+  padding: 18px 36px;
+  color: #ebebeb;
+  border: #fd7401;
+  margin-top: 41px;
+}

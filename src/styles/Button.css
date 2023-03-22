@@ -1,0 +1,36 @@
+.order-hishtory {
+  width: 150px;
+  height: 37px;
+  border-radius: 5px;
+  background-color: white;
+  border-color: #686868;
+}
+
+.signout {
+  width: 130px;
+  height: 37px;
+  border-radius: 50px;
+  background-color: white;
+  border-color: #024e82;
+}
+.shopnow {
+  width: 130px;
+  height: 37px;
+  background-color: white;
+  border: none;
+  margin-left: 20px;
+}
+
+.shopnow-topseller {
+    width: 130px;
+    height: 37px;
+    background-color: #024E82;
+    color: white;
+    border: none;
+    margin-left: 20px;
+  }
+
+.select-shirt {
+  background-color: #e5e2e2;
+  height: 73px !important;
+}
